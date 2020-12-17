@@ -11,3 +11,5 @@ spring:
     profiles: dev
     application:
         name: springcloud-config-test
+        
+        
