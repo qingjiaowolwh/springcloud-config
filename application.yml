@@ -11,3 +11,4 @@ spring:
   profiles: test
   application:
     name: springcloud-config-test
+    bane: fjskflkhjk
